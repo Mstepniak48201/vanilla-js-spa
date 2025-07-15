@@ -2,7 +2,7 @@
 
 ## Initial Structure Sketch
 
-project-root/
+site/
 |
 |--- public/                            // Static files
 |       |-- index.html
@@ -32,7 +32,7 @@ project-root/
 |-- README.md
 
 
-## Style Guide
+## Style Guide 
 
 ### Comments
 **Within Code Blocks in Markdown files:** Adhere to the convention for respective programming language.
